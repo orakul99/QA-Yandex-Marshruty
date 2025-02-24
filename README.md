@@ -1,4 +1,4 @@
-# Проект
+# Проект веб-приложения Яндекс.Маршруты
 
 > [Требования](https://praktikum.notion.site/74dd6e68fda34387ac4d43137a601c6e) и [макеты(figma)](https://www.figma.com/design/aPMo2hRx5qxLm6vkr9ZUBw/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D0%B0%D1%80%D1%88%D1%80%D1%83%D1%82%D1%8B-(Copy)?node-id=2-18586&p=f&t=1T7KprBuT9PhY1Vp-0)
 
