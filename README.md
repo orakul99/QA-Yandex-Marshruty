@@ -52,6 +52,9 @@
 
 **[Баг-репорты](https://docs.google.com/spreadsheets/d/1vPbPya69ZvNRhwItrgrwepQ0gSoQfxeY_smRZAXZhh8/edit?gid=977751969#gid=977751969)**
 
+**[Карта объектов тестирования (MindMap)](https://xmind.ai/share/0BZXGINC?xid=9rzQZFU0)**
+
+**[Диаграмма переходов и состояний кнопки Забронировать](https://xmind.ai/share/F81N36bL?xid=VfXXch1m)**
 
 ## Итоги
 
